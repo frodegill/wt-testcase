@@ -1,0 +1,18 @@
+* Soft-link Wt resource directory
+
+ln -s /usr/local/share/Wt/resources
+
+
+* Compile
+
+make
+
+
+* Run server
+
+./testcase.sh
+
+
+Point your browser to http://localhost:8080/
+
+Press the Add Content button until content covers the whole page. Scroll down and see content behind and below footer.

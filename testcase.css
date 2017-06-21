@@ -1,0 +1,14 @@
+.page {
+  min-height: 100%;
+  overflow: auto;
+}
+
+.testcase-header {
+  color: white;
+  background-color: gray;
+}
+
+.testcase-footer {
+  color: white;
+  background-color: gray;
+}
